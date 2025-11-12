@@ -1,0 +1,1 @@
+var json_campement_6 = {"type":"FeatureCollection","name":"campement_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"nom_1":"Campemen chez solo","prix":"chambre_4.000f_nuite","x_coord":"x_coord_300008","y_coord":"y_coord_1178884"},"geometry":{"type":"MultiPoint","coordinates":[[-4.828333,10.659167]]}}]}
